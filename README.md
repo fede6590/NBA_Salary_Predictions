@@ -1,7 +1,6 @@
-# AnyoneAI - Project II
-## Making Estimations with our NBA dataset
+# Making Estimations with NBA dataset
 
-In our first project, we learn how to create our own datasets by using a public API, Python and Pandas. We're now going to explore how to make predictive models for regression and classification tasks using ScikitLearn
+Make predictive models for Regression and Classification tasks using Scikit-Learn.
 
 The goals of this project are:
 * Learn how to define a prediction task
